@@ -1,8 +1,18 @@
-# OAuth bridge template
+ Goal : Create custom Spotify Playlist
+ 
+ How?? 
+       > You can search by singer
+       > Sort by Dancebility, Instrumentalness and Energy
+       > Save to your Spotify 
+       > You can reach that playlist and play from your Spotify app.
+       
+ Spotify OAuth v      
+ 
+ OAuth bridge template
 
 This service logs in to Spotify and redirects the user to a given frontend application with a valid access_token as a parameter in the url.
 
-## Development mode
+>  Development mode
 
 In development mode, it assumes you are running the frontend on localhost:3000, but the server itself will be running on localhost:8888.
 
